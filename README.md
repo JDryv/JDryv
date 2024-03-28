@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Jack
 - 🌱 I’m currently learning data science and AI
-- 👀 I’m interested in travelling and soccer
