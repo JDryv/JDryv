@@ -17,7 +17,7 @@ After 10 years of experience in Education in Japan, I have transitioned back to 
 - English (native)  
 - Japanese (business)  
 
-## Stuff I've Done (Some Repos Are Private, Sorry!)  
+## Stuff I've Done
 
 - **Gibo (NLP):** Developed a message classifier using TF-IDF and active learning, achieving 80%+ accuracy with minimal user input.  
 - **E-Commerce (Olist):** Built a model to predict trends and reduce losses using historical e-commerce data (2016-2018).  
