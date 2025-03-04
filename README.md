@@ -2,7 +2,6 @@
 
 After 10 years of experience in Education in Japan, I have transitioned back to engineering and Data Science full-time since March 2024.  
 
-🌱 I’m currently learning about Data Science and NLP.  
 
 ## Stuff I Do  
 
