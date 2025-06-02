@@ -1,6 +1,4 @@
-# Hi, I'm Jack 👋  
-
-After 10 years of experience in Education in Japan, I have transitioned back to engineering and Data Science full-time since March 2024.  
+# Hi, I'm Jack 👋    
 
 ## 🚀 Stuff I Do  
 
