@@ -4,7 +4,7 @@
 
 - **💻 Programming:** Python 🐍, Git 🔧, SQL 📊, BigQuery, Pandas 🐼, NumPy, Matplotlib 📈, Jupyter Notebook 📓  
 - **🤖 Machine Learning:** Scikit-learn, TensorFlow, Keras, Transformers  
-- **📝 NLP:** Huggingface 🤗, W3C standards, APIs, fine-tuning, TF-IDF, embeddings, cosine similarity  
+- **📝 NLP:** Huggingface 🤗, W3C, APIs, fine-tuning, TF-IDF, embeddings, cosine similarity  
 - **☁️ Cloud & Product Development:** Google Cloud Platform 🌍, Docker 🐳, Streamlit  
 
 ## 🌍 Languages
